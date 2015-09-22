@@ -1,0 +1,22 @@
+{"stories": [{
+    "headline": "Epicodus Students Eating Figs",
+    "text": "Same old story!",
+    "image": "https://d1c75aoohd-flywheel.netdna-ssl.com/wp-content/uploads/2013/09/figs.jpg",
+    "author": "Alisa Colón"
+  }, {
+    "headline": "Man watches 'Wonder Years'",
+    "text": "A classic television show",
+    "image": "http://i.huffpost.com/gen/1824108/images/o-THE-WONDER-YEARS-facebook.jpg",
+    "author": "Bunker"
+  }, {
+    "headline": "Brian Lau moves to Hong Kong",
+    "text": "It's kinda sad...",
+    "image": "http://images-resrc.staticlp.com/C=AR1200x630/S=W1200,U/O=85//media.lonelyplanet.com/a/g/hi/t/6b625b5ec926f6757103ad42a65c4026-hong-kong.jpg",
+    "author": "Travis"
+  }, {
+      "headline": "Trump visits Epicodus",
+      "text": "Builds a wall.",
+      "image": "http://assets.nydailynews.com/polopoly_fs/1.110525!/img/httpImage/image.jpg_gen/derivatives/article_970/alg-donald-trump-jpg.jpg",
+      "author": "V Dizzle"
+    }]
+}
