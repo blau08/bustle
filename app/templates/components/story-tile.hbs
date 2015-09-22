@@ -1,7 +1,5 @@
-<li><em>{{story.headline}}</em><br>
-  {{story.image}}<br>
-  <div class="container">
-    {{story.text}}<br>
-  </div>
-By {{story.author}}<br>
+<li>
+  {{#link-to 'story' story.id}}
+    {{story.headline}}<img class="front-page-img" src={{story.image}}>
+  {{/link-to}}
 </li>
