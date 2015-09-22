@@ -1,5 +1,6 @@
-<li>
+<li id="story_{{story.id}}">
   {{#link-to 'story' story.id}}
-    {{story.headline}}<img class="front-page-img" src={{story.image}}>
+    <img class="front-page-img img-responsive" src={{story.image}}>
+    <center><h2>{{story.headline}}</h2></center>
   {{/link-to}}
 </li>

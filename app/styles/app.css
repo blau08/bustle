@@ -1,5 +1,6 @@
-.front-page-img {
-  height: 10em;
+
+.story-img {
+  height: 15em;
 }
 h3 {
   text-align: center;
@@ -7,4 +8,11 @@ h3 {
 
 .singlePage {
   text-align: center;
+}
+#indexBody {
+  text-align: center;
+}
+li {
+  list-style: none;
+  padding: 10px;
 }
